@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Keep folders, ignore confidential/generated contents.
+data/*
+!data/.gitkeep
+results/*
+!results/.gitkeep
+debug/*

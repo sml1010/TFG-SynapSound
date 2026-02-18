@@ -1,0 +1,18 @@
+paths:
+  # Root folder that stores local recordings.
+  # Relative paths are resolved from the repo root (e.g., `data`).
+  data_root: data
+
+  # Subfolder inside `data_root` that contains one recording session.
+  # Example final path: data_root/recording_dir
+  recording_dir: P3_2023_05_22_spontaneous_recording
+
+defaults:
+  # Recording file stem to analyze (no extension).
+  # The scripts expect: <recording_name>.nev, <recording_name>.ns2, <recording_name>.ns5
+  # inside data_root/recording_dir.
+  recording_name: spontaneous_initial0017
+
+  # None = load full recording. Set e.g. 2.0 for a faster preview.
+  window_s: null
+  channel: 0
