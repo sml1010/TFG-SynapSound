@@ -1,5 +1,8 @@
 ![cabeceraSalud](https://github.com/user-attachments/assets/d272dd39-1d24-477c-b57e-08d1b0b581b5)
 
+Alumna: Sara Meda López 
+2025-2026
+
 Instituto de Bioingeniería UMH
 - Eduardo Fernández Jover
 - David García García
