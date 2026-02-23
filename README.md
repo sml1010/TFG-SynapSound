@@ -5,6 +5,7 @@ Alumna: Sara Meda López
 
 Instituto de Bioingeniería UMH
 - Eduardo Fernández Jover
+- Antonio Lozano
 - David García García
 
 # neural-sonification
