@@ -8,6 +8,9 @@ Instituto de Bioingeniería UMH
 - Antonio Lozano
 - David García García
 
+# neurofeedback 
+New topic
+
 # neural-sonification
 
 Minimal analysis repo for Blackrock recordings (`.nev`, `.ns2`, `.ns5`) using `brpylib`.
