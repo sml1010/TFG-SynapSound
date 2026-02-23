@@ -13,7 +13,8 @@ New topic
 - Source-Based EEG Neurofeedback for Sustained Motor Imagery of a Single Leg
 - Effects of Motor Imagery and Visual Neurofeedback on Activation in the Swallowing Network: A Real-Time fMRI Study
 - Neurofeedback training of alpha-band coherence enhances motor performance
-- Elegir la bilbiografía que voy a usar y entender qué es lo que voy a hacer. Hablar con Eduardo. 
+- Elegir la bilbiografía que voy a usar y entender qué es lo que voy a hacer. Hablar con Eduardo.
+- Planificar Milestones e Issues desde ya (ya voy tarde)
 
 # neural-sonification
 
