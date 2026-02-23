@@ -10,6 +10,9 @@ Instituto de Bioingeniería UMH
 
 # neurofeedback 
 New topic
+- Source-Based EEG Neurofeedback for Sustained Motor Imagery of a Single Leg
+- Effects of Motor Imagery and Visual Neurofeedback on Activation in the Swallowing Network: A Real-Time fMRI Study
+- Neurofeedback training of alpha-band coherence enhances motor performance
 
 # neural-sonification
 
