@@ -6,7 +6,7 @@ TFG - SynapSound
 
 ###### *__SONIFICACIÓN DE REGISTROS ELECTROFISIOLÓGICOS PARA LA CARACTERIZACIÓN DE ACTIVIDAD NEURONAL__*
 
-Trabajo de fin de grado, del Gardo universitario de **Ingeniería de la Salud** en la **Universidades de Burgos**
+Trabajo de Fin de Grado, del grado universitario de **Ingeniería de la Salud** en la **Universidades de Burgos**
 
 Tutores: **Dr. David García García**, **Dr. Eduardo Fernández Jover** y **Dr. Antonio Manuel Lozano Ortega**
 
