@@ -16,7 +16,7 @@ TFG - SynapSound
 
 Trabajo de Fin de Grado, del grado universitario de **Ingeniería de la Salud** en la **Universidades de Burgos**. 
 
-Realizado por **Sara Meda López** en colaboración con el grupo de investigación de **Neuroingeniería Biomédica** del **Instituto de Bioingeniería** de Elche, durante el curso académico **2025/26**.
+Realizado por: **Sara Meda López**, en colaboración con el grupo de investigación **nBio** del **Instituto de Bioingeniería** de Elche, durante el curso académico **2025/26**.
 
 
 Tutores: **Dr. David García García**, **Dr. Eduardo Fernández Jover** y **Dr. Antonio Manuel Lozano Ortega**
