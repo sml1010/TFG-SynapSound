@@ -1,27 +1,27 @@
-Arquitectura para FIS-HUBU
+TFG - SynapSound
 =
 
 [![made-with-python](https://img.shields.io/badge/Coded%20with-Python-21496b.svg?style=flat-square)](https://www.python.org/)
 [![made-with-latex](https://img.shields.io/badge/Documented%20with-LaTeX-4c9843.svg?style=flat-square)](https://www.latex-project.org/) ![GitHub repo size](https://img.shields.io/github/repo-size/jlgarridol/TFM-FIS-IF?style=flat-square) ![GitHub](https://img.shields.io/github/license/jlgarridol/TFM-FIS-IF?style=flat-square) ![Maintenance](https://img.shields.io/maintenance/yes/2020?style=flat-square)
 
-###### Arquitectura *Big Data* de colas para el procesado de vídeo en tiempo real
-Trabajo de fin de máster, del Máster universitario de **Inteligencia de Negocio y *Big-Data* en Entornos Seguros** en las **Universidades de Burgos, León y Valladolid**
+###### Sonificación de registros electrofisiológicos para la caracterización de actividad neuronal
+Trabajo de fin de grado, del Gardo universitario de **Ingeniería de la Salud** en la **Universidades de Burgos**
 
-Tutores: **Dr. Álvar Arnaiz González** y **Dr. José Francisco Diez Pastor**
+Tutores: **Dr. David García García**, **Dr. Eduardo Fernández Jover** y **Dr. Antonio Manuel Lozano Ortega**
 
 ---
 
 ### Resumen
-La población del primer mundo está cada vez más envejecida y con esto las enfermedades degenerativas como el *Parkinson* afectan cada vez a una mayor parte de los ancianos. Además, los pacientes de estas enfermedades padecen limitaciones para poder desplazarse hasta los centros de salud para poder recibir la terapia ocupacional que necesitan para hacer su vida normal.
+La interpretación de la actividad cerebral compleja sigue siendo uno de los mayores retos en la neurociencia moderna y la ingeniería biomédica. Los métodos tradicionales de visualización de registros electrofisiológicos a menudo resultan insuficientes para identificar patrones dinámicos en tiempo real, lo que limita la capacidad de los investigadores y clínicos para monitorizar la actividad neuronal de forma intuitiva y eficiente.
 
-Ante esta situación se desarrolla el proyecto *Estudio de factibilidad y coste-efectividad del uso telemedicina con un equipo multidisciplinar para prevención de caídas en la enfermedad de Parkinson* en el cual se incorpora este trabajo.
+Ante esta situación se desarrolla el proyecto SynapSound, un sistema de sonificación avanzado diseñado para la caracterización de la actividad neuronal mediante estímulos auditivos.
 
-El objetivo está en desarrollar un sistema de colas que sea escalable, versátil y fiable, dentro de un entorno Big Data, que de soporte al análisis en tiempo real de los ejercicios realizados por los pacientes. Se pretende así facilitar la tarea de los terapeutas ocupacionales y aumentar su alcance.
+El objetivo principal es desarrollar una plataforma capaz de procesar señales captadas mediante implantes intracorticales (Utah Array) para la detección y conversión de potenciales de acción (spikes) y potenciales de campo local (LFP) en sonido. Mediante el uso de técnicas de machine learning y algoritmos adaptativos, el sistema permite modular propiedades acústicas como el tono y el timbre, facilitando la identificación de patrones electrofisiológicos complejos en tiempo real a través de la percepción sonora.
 
 ### Abstract
-The population of the first world is getting older and therefore degenerative diseases such as Parkinson's are affecting more and more of the elderly. In addition, patients with these diseases suffer from limitations in being able to travel to health centres in order to receive the occupational therapy they need to lead a normal life.
+The interpretation of complex brain activity remains one of the greatest challenges in modern neuroscience and biomedical engineering. Traditional visualization methods for electrophysiological recordings are often insufficient for identifying dynamic patterns in real time, limiting the ability of researchers and clinicians to monitor neural activity intuitively and efficiently.
 
-In view of this situation, the project *Feasibility and cost-effectiveness study of the use of telemedicine is being developed with a multidisciplinary team for the prevention of falls in Parkinson's disease* in which this work is incorporated.
+In view of this situation, the SynapSound project is being developed, an advanced sonification system designed for the characterization of neural activity through auditory stimuli.
 
-The objective is to develop a queuing system that is scalable, versatile and reliable, within a Big Data environment, which supports real-time analysis of the exercises performed by patients. This is intended to facilitate the task of occupational therapists and increase their scope.
+The main objective is to develop a platform capable of processing signals captured via intracortical implants (Utah Array) for the detection and conversion of action potentials (spikes) and local field potentials (LFP) into sound. By using machine learning techniques and adaptive algorithms, the system allows for the modulation of acoustic properties such as pitch and timbre, facilitating the identification of complex electrophysiological patterns in real time through sound perception.
 
