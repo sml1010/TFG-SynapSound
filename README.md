@@ -4,6 +4,14 @@ TFG - SynapSound
 [![made-with-python](https://img.shields.io/badge/Coded%20with-Python-21496b.svg?style=flat-square)](https://www.python.org/)
 [![made-with-latex](https://img.shields.io/badge/Documented%20with-LaTeX-4c9843.svg?style=flat-square)](https://www.latex-project.org/) ![GitHub repo size](https://img.shields.io/github/repo-size/jlgarridol/TFM-FIS-IF?style=flat-square) ![GitHub](https://img.shields.io/github/license/jlgarridol/TFM-FIS-IF?style=flat-square) ![Maintenance](https://img.shields.io/maintenance/yes/2020?style=flat-square)
 
+
+[![GitHub issues](https://img.shields.io/github/issues-closed/fps1001/TFGII_FPisot)](https://github.com/fps1001/TFGII_FPisot/issues)
+[![Wiki](https://img.shields.io/badge/wiki-available-brightgreen)](https://github.com/fps1001/TFGII_FPisot/wiki)
+![GitHub Release](https://img.shields.io/github/v/release/fps1001/TFGII_FPisot?label=Release)
+[![Workflow Status](https://github.com/fps1001/TFGII_FPisot/actions/workflows/main.yml/badge.svg)](https://github.com/fps1001/TFGII_FPisot/actions)
+[![Zube](https://img.shields.io/badge/zube-managed-blue?logo=zube)](https://zube.io/)
+---
+
 ###### *__SONIFICACIÓN DE REGISTROS ELECTROFISIOLÓGICOS PARA LA CARACTERIZACIÓN DE ACTIVIDAD NEURONAL__*
 
 Trabajo de Fin de Grado, del grado universitario de **Ingeniería de la Salud** en la **Universidades de Burgos**
