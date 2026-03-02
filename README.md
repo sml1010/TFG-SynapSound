@@ -4,7 +4,8 @@ TFG - SynapSound
 [![made-with-python](https://img.shields.io/badge/Coded%20with-Python-21496b.svg?style=flat-square)](https://www.python.org/)
 [![made-with-latex](https://img.shields.io/badge/Documented%20with-LaTeX-4c9843.svg?style=flat-square)](https://www.latex-project.org/) ![GitHub repo size](https://img.shields.io/github/repo-size/jlgarridol/TFM-FIS-IF?style=flat-square) ![GitHub](https://img.shields.io/github/license/jlgarridol/TFM-FIS-IF?style=flat-square) ![Maintenance](https://img.shields.io/maintenance/yes/2020?style=flat-square)
 
-###### *__Sonificación de registros electrofisiológicos para la caracterización de actividad neuronal__*
+###### *__SONIFICACIÓN DE REGISTROS ELECTROFISIOLÓGICOS PARA LA CARACTERIZACIÓN DE ACTIVIDAD NEURONAL__*
+
 Trabajo de fin de grado, del Gardo universitario de **Ingeniería de la Salud** en la **Universidades de Burgos**
 
 Tutores: **Dr. David García García**, **Dr. Eduardo Fernández Jover** y **Dr. Antonio Manuel Lozano Ortega**
