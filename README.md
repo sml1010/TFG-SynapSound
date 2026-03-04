@@ -10,7 +10,6 @@ TFG - SynapSound
 
 [![GitHub issues](https://img.shields.io/github/issues-closed/sml1010/TFG-SynapSound)](https://github.com/sml1010/TFG-SynapSound/issues)
 [![Wiki](https://img.shields.io/badge/wiki-available-brightgreen)](https://github.com/sml1010/TFG-SynapSound/wiki)
-![GitHub Release](https://img.shields.io/github/v/release/sml1010/TFG-SynapSound?label=Release)
 [![Workflow Status](https://github.com/sml1010/TFG-SynapSound/actions/workflows/main.yml/badge.svg)](https://github.com/sml1010/TFG-SynapSound/actions)
 [![Zube](https://img.shields.io/badge/zube-managed-blue?logo=zube)](https://zube.io/)
 
