@@ -3,14 +3,9 @@ TFG - SynapSound
 
 [![Python](https://img.shields.io/badge/Coded%20with-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![LaTeX](https://img.shields.io/badge/Documented%20with-LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
-![GitHub repo size](https://img.shields.io/github/repo-size/sml1010/TFG-SynapSound?style=flat-square)
-![GitHub](https://img.shields.io/github/license/sml1010/TFG-SynapSound?style=flat-square&color=orange)
+![GitHub repo size](https://img.shields.io/github/repo-size/jlgarridol/TFM-FIS-IF?style=flat-square) 
+![GitHub](https://img.shields.io/github/license/jlgarridol/TFM-FIS-IF?style=flat-square)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/sml1010/TFG-SynapSound?style=flat-square&label=Último%20cambio)
-
-
-[![made-with-python](https://img.shields.io/badge/Coded%20with-Python-21496b.svg?style=flat-square)](https://www.python.org/)
-[![made-with-latex](https://img.shields.io/badge/Documented%20with-LaTeX-4c9843.svg?style=flat-square)](https://www.latex-project.org/) ![GitHub repo size](https://img.shields.io/github/repo-size/jlgarridol/TFM-FIS-IF?style=flat-square) ![GitHub](https://img.shields.io/github/license/jlgarridol/TFM-FIS-IF?style=flat-square) ![Maintenance](https://img.shields.io/maintenance/yes/2020?style=flat-square)
 
 
 [![GitHub issues](https://img.shields.io/github/issues-closed/fps1001/TFGII_FPisot)](https://github.com/fps1001/TFGII_FPisot/issues)
