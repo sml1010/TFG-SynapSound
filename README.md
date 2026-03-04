@@ -1,17 +1,17 @@
 TFG - SynapSound
 =
-[![Workflow Status](https://github.com/sml1010/TFG-SynapSound/actions/workflows/main.yml/badge.svg)](https://github.com/sml1010/TFG-SynapSound/actions)
+
 [![Workflow Status](https://github.com/fps1001/TFGII_FPisot/actions/workflows/main.yml/badge.svg)](https://github.com/fps1001/TFGII_FPisot/actions)
 [![Zube](https://img.shields.io/badge/zube-managed-blue?logo=zube)](https://zube.io/)
 
 
 [![made-with-python](https://img.shields.io/badge/Coded%20with-Python-21496b.svg?style=flat-square)](https://www.python.org/)
 [![made-with-latex](https://img.shields.io/badge/Documented%20with-LaTeX-4c9843.svg?style=flat-square)](https://www.latex-project.org/) 
+![License](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sml1010/TFG-SynapSound?style=flat-square)
 [![GitHub issues](https://img.shields.io/github/issues-closed/sml1010/TFG-SynapSound)](https://github.com/sml1010/TFG-SynapSound/issues)
 [![Wiki](https://img.shields.io/badge/wiki-available-brightgreen)](https://github.com/sml1010/TFG-SynapSound/wiki)
-![License](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)
+[![Workflow Status](https://github.com/fps1001/TFGII_FPisot/actions/workflows/main.yml/badge.svg)](https://github.com/fps1001/TFGII_FPisot/actions)
 
 ###### *__SONIFICACIÓN DE REGISTROS ELECTROFISIOLÓGICOS PARA LA CARACTERIZACIÓN DE ACTIVIDAD NEURONAL__*
 
