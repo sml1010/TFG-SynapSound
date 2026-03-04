@@ -40,5 +40,5 @@ The main objective is to develop a platform capable of processing signals captur
 ### Este respositorio contiene: 
 
 - notebooks con los experimentos realizados en la carpeta **src**.
-- proyecto con el código de la aplicación en la carpeta **app**.
+- proyecto con el código del sistema en la carpeta **app**.
 - memoria del proyecto y anexos en la carpeta **doc**. 
