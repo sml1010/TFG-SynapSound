@@ -41,4 +41,4 @@ The main objective is to develop a platform capable of processing signals captur
 
 - proyecto con el código del sistema en la carpeta **app**.
 - memoria del proyecto y anexos en la carpeta **doc**.
-- notebooks con los experimentos realizados en la carpeta **src**.
+- jupyter notebooks  en la carpeta **src**.
