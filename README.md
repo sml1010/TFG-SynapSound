@@ -7,6 +7,16 @@ TFG - SynapSound
 ![License](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)
 
+
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=fps1001_TFGII_FPisot&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=fps1001_TFGII_FPisot)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=fps1001_TFGII_FPisot&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=fps1001_TFGII_FPisot)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=fps1001_TFGII_FPisot&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=fps1001_TFGII_FPisot)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=fps1001_TFGII_FPisot&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=fps1001_TFGII_FPisot) 
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=fps1001_TFGII_FPisot&metric=bugs)](https://sonarcloud.io/summary/new_code?id=fps1001_TFGII_FPisot) 
+
+
+[![made-with-python](https://img.shields.io/badge/Coded%20with-Python-21496b.svg?style=flat-square)](https://www.python.org/)
+[![made-with-latex](https://img.shields.io/badge/Documented%20with-LaTeX-4c9843.svg?style=flat-square)](https://www.latex-project.org/) ![GitHub repo size](https://img.shields.io/github/repo-size/jlgarridol/TFM-FIS-IF?style=flat-square) ![GitHub](https://img.shields.io/github/license/jlgarridol/TFM-FIS-IF?style=flat-square) ![Maintenance](https://img.shields.io/maintenance/yes/2020?style=flat-square)
 ###### *__SONIFICACIÓN DE REGISTROS ELECTROFISIOLÓGICOS PARA LA CARACTERIZACIÓN DE ACTIVIDAD NEURONAL__*
 
 Trabajo de Fin de Grado, del grado universitario de **Ingeniería de la Salud** en la **Universidades de Burgos**. 
