@@ -26,6 +26,8 @@ Ante esta situación se desarrolla el proyecto SynapSound, un sistema de sonific
 
 El objetivo principal es desarrollar una plataforma capaz de procesar señales captadas mediante implantes intracorticales (Utah Array) para la detección y conversión de potenciales de acción (spikes) y potenciales de campo local (LFP) en sonido. Mediante el uso de técnicas de machine learning y algoritmos adaptativos, el sistema permite modular propiedades acústicas como el tono y el timbre, facilitando la identificación de patrones electrofisiológicos complejos en tiempo real a través de la percepción sonora.
 
+---
+
 ### Abstract
 The interpretation of complex brain activity remains one of the greatest challenges in modern neuroscience and biomedical engineering. Traditional visualization methods for electrophysiological recordings are often insufficient for identifying dynamic patterns in real time, limiting the ability of researchers and clinicians to monitor neural activity intuitively and efficiently.
 
@@ -33,3 +35,12 @@ In view of this situation, the SynapSound project is being developed, an advance
 
 The main objective is to develop a platform capable of processing signals captured via intracortical implants (Utah Array) for the detection and conversion of action potentials (spikes) and local field potentials (LFP) into sound. By using machine learning techniques and adaptive algorithms, the system allows for the modulation of acoustic properties such as pitch and timbre, facilitating the identification of complex electrophysiological patterns in real time through sound perception.
 
+---
+
+### Este respositorio contiene: 
+
+- notebooks con los experimentos realizados en la carpeta **src**.
+- proyecto con el código de la aplicación en la carpeta **app**.
+- memoria del proyecto y anexos en la carpeta **doc**. 
+
+---
