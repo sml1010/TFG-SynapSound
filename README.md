@@ -5,6 +5,9 @@ TFG - SynapSound
 [![LaTeX](https://img.shields.io/badge/Documented%20with-LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/)
 ![Repo Size](https://img.shields.io/badge/repo%20size-12MB-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat-square)
+
+![GitHub Repo size](https://img.shields.io/github/repo-size/sml1010/TFG-SynapSound?style=flat-square) 
+![GitHub](https://img.shields.io/github/license/sml1010/TFG-SynapSound?style=flat-square)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)
 
 ###### *__SONIFICACIÓN DE REGISTROS ELECTROFISIOLÓGICOS PARA LA CARACTERIZACIÓN DE ACTIVIDAD NEURONAL__*
