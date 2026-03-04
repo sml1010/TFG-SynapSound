@@ -2,12 +2,12 @@ TFG - SynapSound
 =
 [![made-with-python](https://img.shields.io/badge/Coded%20with-Python-21496b.svg?style=flat)](https://www.python.org/)
 [![made-with-latex](https://img.shields.io/badge/Documented%20with-LaTeX-4c9843.svg?style=flat)](https://www.latex-project.org/) 
-![License](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sml1010/TFG-SynapSound?style=flat)
 [![GitHub issues](https://img.shields.io/github/issues-closed/sml1010/TFG-SynapSound)](https://github.com/sml1010/TFG-SynapSound/issues)
 [![Wiki](https://img.shields.io/badge/wiki-available-brightgreen)](https://github.com/sml1010/TFG-SynapSound/wiki)
 [![Workflow Status](https://github.com/sml1010/TFG-SynapSound/actions/workflows/main.yml/badge.svg)](https://github.com/sml1010/TFG-SynapSound/actions)
 [![Zube](https://img.shields.io/badge/zube-managed-blue?logo=zube)](https://zube.io/)
+![License](https://img.shields.io/badge/license-GPL--3.0-orange?style=flat)
 
 ###### *__SONIFICACIÓN DE REGISTROS ELECTROFISIOLÓGICOS PARA LA CARACTERIZACIÓN DE ACTIVIDAD NEURONAL__*
 
