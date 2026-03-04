@@ -8,11 +8,11 @@ TFG - SynapSound
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)
 
 
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=fps1001_TFGII_FPisot&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=fps1001_TFGII_FPisot)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=fps1001_TFGII_FPisot&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=fps1001_TFGII_FPisot)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=fps1001_TFGII_FPisot&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=fps1001_TFGII_FPisot)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=fps1001_TFGII_FPisot&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=fps1001_TFGII_FPisot) 
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=fps1001_TFGII_FPisot&metric=bugs)](https://sonarcloud.io/summary/new_code?id=fps1001_TFGII_FPisot) 
+[![GitHub issues](https://img.shields.io/github/issues-closed/fps1001/TFGII_FPisot)](https://github.com/fps1001/TFGII_FPisot/issues)
+[![Wiki](https://img.shields.io/badge/wiki-available-brightgreen)](https://github.com/fps1001/TFGII_FPisot/wiki)
+![GitHub Release](https://img.shields.io/github/v/release/fps1001/TFGII_FPisot?label=Release)
+[![Workflow Status](https://github.com/fps1001/TFGII_FPisot/actions/workflows/main.yml/badge.svg)](https://github.com/fps1001/TFGII_FPisot/actions)
+[![Zube](https://img.shields.io/badge/zube-managed-blue?logo=zube)](https://zube.io/)
 
 
 [![made-with-python](https://img.shields.io/badge/Coded%20with-Python-21496b.svg?style=flat-square)](https://www.python.org/)
