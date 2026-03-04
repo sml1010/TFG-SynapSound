@@ -28,14 +28,6 @@ El objetivo principal es desarrollar una plataforma capaz de procesar señales c
 
 ---
 
-La interpretación de la actividad cerebral compleja es un reto caracterizado por la dificultad de identificar patrones dinámicos mediante visualización tradicional. Para investigadores y clínicos, la detección inmediata de cambios electrofisiológicos resulta vital para una monitorización eficiente. En especial, el análisis de señales neuronales es especialmente complejo cuando se requiere supervisión en tiempo real.
-
-En este proyecto se trata de desarrollar el sistema SynapSound para generar un modelo de caracterización neuronal a partir de datos de implantes intracorticales (Utah Array). Entre las técnicas empleadas se engloban la conversión de potenciales de acción (spikes) y de campo local (LFP), y el uso de machine learning para la detección de patrones.
-
-Adicionalmente, se permite modular el tono y el timbre para mostrar la aplicabilidad de este modelo a través de la percepción sonora.
-
----
-
 ### Abstract
 The interpretation of complex brain activity remains one of the greatest challenges in neuroscience. Traditional visualization methods for electrophysiological recordings are often insufficient for identifying dynamic patterns in real time, limiting the ability of researchers to monitor neural activity intuitively and efficiently.
 
