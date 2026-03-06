@@ -22,7 +22,7 @@ Tutores: **Dr. David García García**, **Dr. Eduardo Fernández Jover** y **Dr.
 ### Resumen
 La interpretación de la actividad cerebral compleja sigue siendo uno de los mayores retos en la neurociencia. Los métodos tradicionales de visualización de registros electrofisiológicos a menudo resultan insuficientes para identificar patrones dinámicos en tiempo real, lo que limita la capacidad de los investigadores para monitorizar la actividad neuronal de forma intuitiva y eficiente.
 
-Ante esta situación se desarrolla el proyecto *SynapSound*, un sistema de sonificación avanzado diseñado para la caracterización de la actividad neuronal mediante estímulos auditivos.
+Ante esta situación se desarrolla el proyecto *SynapSound*, un sistema de sonificación avanzado diseñado para la caracterización de la actividad neuronal mediante estímulos auditivos en personal con discapacidad visual.
 
 El objetivo principal es desarrollar una plataforma capaz de procesar señales captadas mediante implantes intracorticales *(Utah Array)* para la detección y conversión de potenciales de acción (spikes) y potenciales de campo local (LFP) en sonido. Mediante el uso de técnicas de machine learning, el sistema permite modular propiedades acústicas como el tono y el timbre, facilitando la identificación de patrones electrofisiológicos complejos en tiempo real a través de la percepción sonora.
 
